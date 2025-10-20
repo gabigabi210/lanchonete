@@ -1,7 +1,4 @@
 package Lanchonete;
-
-import viagem.Cardapio;
-
 public class ComboBuilder implements Builder {
     private Hamburguer hamburguer;
     private String bebida;
